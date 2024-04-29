@@ -94,3 +94,7 @@ body {
 .container__descricao {
     padding: 2em;
 }
+
+.dispositivos__lista {
+    display: flex;
+}
